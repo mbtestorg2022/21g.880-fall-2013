@@ -27,11 +27,102 @@ Students are expected to prepare the assigned materials for each class and compl
 
 ### Composition Questions
 
-| Redação # | Crônicas | Tópico? | Devido |
-| --- | --- | --- | --- |
-| 1 | "[Posto 5]({{< baseurl >}}/pages/readings#Posto_5)" and "[Moça do Interior]({{< baseurl >}}/pages/readings#Mo_a_do_interior)" |  {{< br >}}{{< br >}} Com base nos contos "Posto 5" e "Moça do Interior", escreva uma redação sobre o relacionamento entre pessoas diferentes. Você acredita que diferenças culturais, de idade, de raça, de religião, de classe social, de nível educativo, ideológicas, etc. podem dificultar ou impedir o relacionamento entre duas pessoas? {{< br >}}{{< br >}}  | Session 30 |
-| 2 | "[Puxa-Puxa]({{< baseurl >}}/pages/readings#Puxa-puxa)" |  {{< br >}}{{< br >}} Baseando-se no conto Puxa-puxa, fale sobre a sua experiência em viagens. Você tem o costume de pedir encomendas a quem viaja? Ou de trazer encomendas para amigos? Você já passou ou conhece alguém que passou por alguma dificuldade durante uma viagem? Como foi? {{< br >}}{{< br >}}  | Session 35 |
-| 3 | "[A Retranqueta do Polidor]({{< baseurl >}}/pages/readings#A_Retranqueta_do_Polidor)" |  {{< br >}}{{< br >}} Com base no conto "A Retranqueta do Polidor", escreva uma redação dizendo se você concorda ou não com a afirmação do escritor de que "a mentira é necessária para a vida em sociedade." {{< br >}}{{< br >}}  | Session 40 |
-| 4 | "[João e Maria]({{< baseurl >}}/pages/readings/#Joao_Maria)" |  {{< br >}}{{< br >}} Baseando-se no conto "João e Maria", escreva sobre alguma situação embaraçosa ou engraçada por que você ou alguém que você conhece já passou. {{< br >}}{{< br >}}  | Session 48 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Redação #
+{{< thclose >}}
+{{< thopen >}}
+Crônicas
+{{< thclose >}}
+{{< thopen >}}
+Tópico?
+{{< thclose >}}
+{{< thopen >}}
+Devido
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+"[Posto 5]({{< baseurl >}}/pages/readings#Posto_5)" and "[Moça do Interior]({{< baseurl >}}/pages/readings#Mo_a_do_interior)"
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Com base nos contos "Posto 5" e "Moça do Interior", escreva uma redação sobre o relacionamento entre pessoas diferentes. Você acredita que diferenças culturais, de idade, de raça, de religião, de classe social, de nível educativo, ideológicas, etc. podem dificultar ou impedir o relacionamento entre duas pessoas?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Session 30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+"[Puxa-Puxa]({{< baseurl >}}/pages/readings#Puxa-puxa)"
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Baseando-se no conto Puxa-puxa, fale sobre a sua experiência em viagens. Você tem o costume de pedir encomendas a quem viaja? Ou de trazer encomendas para amigos? Você já passou ou conhece alguém que passou por alguma dificuldade durante uma viagem? Como foi?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Session 35
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+"[A Retranqueta do Polidor]({{< baseurl >}}/pages/readings#A_Retranqueta_do_Polidor)"
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Com base no conto "A Retranqueta do Polidor", escreva uma redação dizendo se você concorda ou não com a afirmação do escritor de que "a mentira é necessária para a vida em sociedade."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Session 40
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+"[João e Maria]({{< baseurl >}}/pages/readings/#Joao_Maria)"
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Baseando-se no conto "João e Maria", escreva sobre alguma situação embaraçosa ou engraçada por que você ou alguém que você conhece já passou.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Session 48
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 All assignments are to be done on the date indicated. **Late work will not receive full credit**. The exercises in _MyPortugueseLAb_ are designed to reinforce the grammar and vocabulary introduced in the textbook, as well as to improve your listening comprehension. They are required components of the course and it's important that you complete them right away, as soon as the material is covered. Don't let your homework pile up. Working a little every day and frequent reviewing are more effective than a few long sessions of study at longer intervals.

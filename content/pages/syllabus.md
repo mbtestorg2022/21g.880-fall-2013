@@ -41,12 +41,57 @@ Evaluation / Grades
 
 Grading is based on frequent relatively small evaluations rather than on one or two major hurdles.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class attendance, participation, and homework | 25 |
-| Composition (redações) | 20 |
-| Exams | 40 |
-| Oral presentation | 15 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class attendance, participation, and homework
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Composition (redações)
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exams
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 See the [assignment]({{< baseurl >}}/pages/assignments) section for more detailed information.
 
